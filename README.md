@@ -1,2 +1,4 @@
 # hello-world
-GitHub set up repository
+
+Working on web scraping as part of Masters at UOC
+How exciting!
